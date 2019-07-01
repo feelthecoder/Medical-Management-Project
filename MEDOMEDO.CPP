@@ -32,6 +32,7 @@ public:
 	int medpno()
 	{
 		return medno;
+		
 	}
 	void dishead()
 	{
